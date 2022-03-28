@@ -1,5 +1,5 @@
 # MachineLearningApplicationS2022
-Projects and homeworks from Applications of Machine Learning course taken in the Spring of 2022
+Projects and homeworks from Applications of Machine Learning course taken in the Spring of 2022. Projects completed with David Hoffman (@davidhoffman11).
 
 # <i> Overview of Projects </i>
 
