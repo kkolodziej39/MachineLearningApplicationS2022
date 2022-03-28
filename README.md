@@ -1,7 +1,7 @@
 # MachineLearningApplicationS2022
 Projects from Applications of Machine Learning course taken in the Spring of 2022
 
-# Project Overview
+# <i> Overview of Projects </i>
 
 ## Project 1: Population Prediction
 * Building a model using public data sources to predict the world's human population in 2122
