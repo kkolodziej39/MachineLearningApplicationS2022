@@ -1,5 +1,5 @@
 # MachineLearningApplicationS2022
-Projects from Applications of Machine Learning course taken in the Spring of 2022
+Projects and homeworks from Applications of Machine Learning course taken in the Spring of 2022
 
 # <i> Overview of Projects </i>
 
@@ -12,3 +12,7 @@ Projects from Applications of Machine Learning course taken in the Spring of 202
 ## Project 3: TBD
 * Coming soon...
 
+# <i> Overview of Homeworks </i>
+
+## Homework 1: Housing Data
+* Following along Chapter 2 of Aurelien Geron’s <i> Hands-On Machine Learning with Scikit-Learn, Keras & Tensorflow 2nd Edition </i>
